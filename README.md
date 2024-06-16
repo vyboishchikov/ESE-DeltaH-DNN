@@ -1,4 +1,3 @@
-# ESE-DeltaH-DNN
 <html>
 
 <font face="Open Sans">
@@ -74,27 +73,27 @@ and preferably also cite some our previous related work:</p>
 <b>5</b>. S. F. Vyboishchikov, <i>J. Comput. Chem.</i>, <b>2023</b>, <i>44</i>, 307&ndash;318. 
 <a href="https://doi.org/10.1002/jcc.26894">DOI: 10.1002/jcc.26894</a></p>
 
-<p style='margin:0cm;margin-bottom:0pt'><span style='font-family: "Open Sans"'>
+<p style='margin:0cm;margin-bottom:0pt'>
 <b>6</b>. S. F. Vyboishchikov, A. A. Voityuk, <i> Chemical Reactivity, vol. 2:
 Approaches and applications, S. Kaya, L. von Szentp&aacute;ly, G. Serdaro&gbreve;lu, K. Guo (Eds.)</i>,
 Elsevier, Amsterdam, <b>2023</b>, 399&ndash;427. <a href="https://doi.org/10.1016/B978-0-32-390259-5.00021-4">
-DOI: 10.1016/B978-0-32-390259-5.00021-4</a></span></p>
+DOI: 10.1016/B978-0-32-390259-5.00021-4</a></p>
 
-<p style='margin:0cm;margin-bottom:0pt'><span style=''>
+<p style='margin:0cm;margin-bottom:0pt'>
 <b>7</b>. S. F. Vyboishchikov, A. A. Voityuk, <a href="https://pubs.acs.org/doi/10.1021/acs.jcim.1c00885">
-<i>J. Chem. Inf. Model., </i><b>2021</b>, <i>61</i></a>, 4544&ndash;4553. DOI: 10.1021/acs.jcim.1c00885 </span></p>
+<i>J. Chem. Inf. Model., </i><b>2021</b>, <i>61</i></a>, 4544&ndash;4553. DOI: 10.1021/acs.jcim.1c00885 </p>
 
-<p style='margin:0cm;margin-bottom:0pt'><span style=''>
+<p style='margin:0cm;margin-bottom:0pt'>
 <b>8</b>. S. F. Vyboishchikov, A. A. Voityuk, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.26531">
-<i>J. Comput. Chem., </i><b>2021</b>, <i>42</i></a>, 1184&ndash;1194. DOI: 10.1002/jcc.26531</span></p>
+<i>J. Comput. Chem., </i><b>2021</b>, <i>42</i></a>, 1184&ndash;1194. DOI: 10.1002/jcc.26531</p>
 
-<p style='margin:0cm;margin-bottom:0pt'><span style='font-family: "Open Sans"'>
+<p style='margin:0cm;margin-bottom:0pt'>
 <b>9</b>. A. A. Voityuk, S. F. Vyboishchikov, <a href="https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp02667k">
-<i>Phys. Chem. Chem. Phys.</i> <b>2020</b>, <i>22</i></a>, 14591&ndash;14598. DOI: 10.1039/d0cp02667k</span></p>
+<i>Phys. Chem. Chem. Phys.</i> <b>2020</b>, <i>22</i></a>, 14591&ndash;14598. DOI: 10.1039/d0cp02667k</p>
 
-<p style='margin:0cm;margin-bottom:0pt'><span style='font-family: "Open Sans"'>
+<p style='margin:0cm;margin-bottom:0pt'>
 <b>10</b>. A. A. Voityuk, S. F. Vyboishchikov, <a href="https://pubs.rsc.org/en/content/articlelanding/2019/cp/c9cp03010g">
-<i>Phys. Chem. Chem. Phys.</i>, <b>2019</b>, <i>21</i></a>, 875&ndash;874. DOI: 10.1039/c9cp03010g</span></p>
+<i>Phys. Chem. Chem. Phys.</i>, <b>2019</b>, <i>21</i></a>, 875&ndash;874. DOI: 10.1039/c9cp03010g</p>
 
 <p style='margin:0cm;margin-top:12pt'><span style='font-family: "Open Sans"'>
 Questions related to the ESE-&Delta;H-DNN method and program should be addressed to
