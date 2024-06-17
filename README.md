@@ -14,11 +14,10 @@ atomic charges are calculated. Subsequently, the Born-type terms, atomic surface
 are evaluated and, along with five solvent features, are fed into a <i>Dense Neural Network</i>.</p>
 
 <p>The present scheme is an adaptation of my previous ESE-GB-DNN method. In contrast to 
-the previous ESE-GB-DNN scheme [3], the <b>ESE-&Delta;H-DNN</b> method yields 
-&Delta;<i>G</i><sub>solv</sub> and &Delta;<i>H</i><sub>solv</sub>. However, ESE-&Delta;H-DNN was trained 
-on a database of neutral solutes in organic solvents. Therefore, if you need aqueous 
-solutions or ions, please use <a href="https://github.com/vyboishchikov/ESE-GB-DNN">ESE-
-GB-DNN</a> 
+the previous ESE-GB-DNN scheme [3], the <b>ESE-&Delta;H-DNN</b> method yields both
+&Delta;<i>G</i><sub>solv</sub> and &Delta;<i>H</i><sub>solv</sub>. However, ESE-&Delta;H-DNN
+was trained on a database of neutral solutes in organic solvents. Therefore, if you need aqueous 
+solutions or ions, please use <a href="https://github.com/vyboishchikov/ESE-GB-DNN">ESE-GB-DNN</a> 
 
 <p>The present <b>ESE-&Delta;H-DNN</b> scheme is a continuation of my previous works 
 [3&ndash;5] and is loosely based on the <a href="https://github.com/vyboishchikov/ESE">uESE</a> 
