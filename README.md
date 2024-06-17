@@ -37,9 +37,9 @@ can be calculated by the program ESE-DeltaH-DNN, which can be downloaded here fr
 The ESE-&Delta;H-DNN program can be run from the command line as follows:</p>
 
 <p style='margin-top:6pt;margin-bottom:0cm'>
-<tt><b>ESE-DeltaH-DNN.exe <i>xyz-file</i> -solvent <i>solvent</i></b></tt></p>
+<code><b>ESE-DeltaH-DNN.exe <i>xyz-file</i> -solvent <i>solvent</i></b></code></p>
 
-<p><i><b>Warning:</b></i> The xyz-fuile should contain atomic symbols (or numbers) and 
+<p><i><b>Warning:</b></i> The xyz-file should contain atomic symbols (or numbers) and 
 Cartesian coordinates (in &#8491;) and an empty line at the end. It should not contain
 any header.
 
