@@ -46,10 +46,7 @@ any header.
 <p style='margin-top:12pt;margin-bottom:0pt'>
 If your solvent is not in this <a href="https://github.com/vyboishchikov/ESE-DeltaH-DNN/blob/main/solvent-list.md">list</a>, you can use the following call format:</p>
 
-<p style='margin-top:6pt;margin-bottom:12pt'><tt><b>ESE-DeltaH-DNN.exe <i>xyz-file</i>
--Eps <i>dielectric_constant</i> -BP <i>boiling_point_&deg;C</i> -Nheavy <i> 
-number_of_non_hydrogen_atoms_in_solvent</i> -MolVolume <i>molar-volume</i> -H-bond 
-<i>number_of_hydrogen_bon_centers></i></b> </tt></p>
+<p style='margin-top:6pt;margin-bottom:12pt'><code><b>ESE-DeltaH-DNN.exe <i>xyz-file</i> -Eps <i>dielectric_constant</i> -BP <i>boiling_point_&deg;C</i> -Nheavy <i> number_of_non_hydrogen_atoms_in_solvent</i> -MolVolume <i>molar-volume</i> -H-bond <i>number_of_hydrogen_bon_centers></i></b> </code></p>
 
 <p style='margin:0cm'>
 Once you use results calculated by the ESE-&Delta;H-DNN program, you should include at least the following citations:</p>
