@@ -3,22 +3,19 @@
 <font face="Open Sans">
 
 <h1>ESE-&Delta;H-DNN &ndash; A dense Neural Network for evaluation of solvation free 
-energy, enthalpy, and entropy based on Generalized-Born terms</h1>
+energy and enthalpy based on Generalized-Born terms</h1>
 
 <h2>Introduction and User's Guide</h2>
 
-<p><i>ESE-&Delta;H-DNN</i> is a method for evaluation of <b>solvation free energy</b>, 
-<b>enthalpy</b>, and <b>entropy</b> of neutral molecules in organic solvents [2]. It 
-requires the solute molecular geometry only. To obtain the solvation free energy, first 
-<i>electronegativity-equalization</i> atomic charges are calculated. Subsequently, the 
-Born-type terms, atomic surfaces and volumes are evaluated and, along with five solvent 
-features, are fed into a <i>Dense Neural Network</i>.</p>
+<p><i>ESE-&Delta;H-DNN</i> is a method for evaluation of <b>solvation free energy</b> and 
+<b>enthalpy</b> of neutral molecules in organic solvents [2]. It  requires the solute molecular
+geometry only. To obtain the solvation free energy, first <i>electronegativity-equalization</i>
+atomic charges are calculated. Subsequently, the Born-type terms, atomic surfaces and volumes
+are evaluated and, along with five solvent features, are fed into a <i>Dense Neural Network</i>.</p>
 
-<p>The present is an adaptation of my previous ESE-GB-DNN method. In contrast to the 
-previous ESE-GB-DNN scheme [3], the <b>ESE-&Delta;H-DNN</b> method yields 
-&Delta;G<sub>solv</sub>, &Delta;H<sub>solv</sub> and &Delta;S<sub>solv</sub>. However, 
-ESE-&Delta;H-DNN was trained on a database of neutral solutes in organic solvents. 
-Therefore, if you need aqueous solutions or ions, please use
+<p>The present scheme is an adaptation of my previous ESE-GB-DNN method. In contrast to the 
+previous ESE-GB-DNN scheme [3], the <b>ESE-&Delta;H-DNN</b> method yields &Delta;G<sub>solv</sub> and &Delta;H<sub>solv</sub>. However, ESE-&Delta;H-DNN was trained on a database of neutral solutes in
+organic solvents. Therefore, if you need aqueous solutions or ions, please use
 <a href="https://github.com/vyboishchikov/ESE-GB-DNN">ESE-GB-DNN</a> 
 
 <p>The present <b>ESE-&Delta;H-DNN</b> scheme is a continuation of my previous works 
@@ -27,9 +24,8 @@ Therefore, if you need aqueous solutions or ions, please use
 
 <p>The supported elements are H, C, N, O, F, Si, P, S, Cl, Br, I.</p>
 
-<p style='margin-top:12pt;margin-bottom:0cm'> &Delta;G<sub>solv</sub>, 
-&Delta;H<sub>solv</sub> and &Delta;S<sub>solv</sub> can be calculated by the program
-ESE-DeltaH-DNN, which can be downloaded here free of charge:</p>
+<p style='margin-top:12pt;margin-bottom:0cm'> &Delta;G<sub>solv</sub> and &Delta;H<sub>solv</sub>
+can be calculated by the program ESE-DeltaH-DNN, which can be downloaded here free of charge:</p>
 
 <p style='margin:0cm;margin-bottom:0pt'>
 <a href="https://github.com/vyboishchikov/ESE-DeltaH-DNN/blob/main/ESE-DeltaH-DNN.exe">ESE-DeltaH-DNN.exe</a> &ndash; Windows version</p>
@@ -68,7 +64,6 @@ and preferably also cite some our previous related work:</p>
 <b>4</b>. S. F. Vyboishchikov, <i>J. Chem. Inf. Model</i>., <b>2023</b>, <i>63</i>, 6283&ndash;6292.
 <a href="https://doi.org/10.1021/acs.jcim.3c00922">DOI: 10.1021/acs.jcim.3c00922</a></p>
 
-
 <p style='margin:0cm;margin-bottom:0pt'>
 <b>5</b>. S. F. Vyboishchikov, <i>J. Comput. Chem.</i>, <b>2023</b>, <i>44</i>, 307&ndash;318. 
 <a href="https://doi.org/10.1002/jcc.26894">DOI: 10.1002/jcc.26894</a></p>
@@ -88,7 +83,8 @@ DOI: 10.1016/B978-0-32-390259-5.00021-4</a></p>
 <i>J. Comput. Chem., </i><b>2021</b>, <i>42</i></a>, 1184&ndash;1194. DOI: 10.1002/jcc.26531</p>
 
 <p style='margin:0cm;margin-bottom:0pt'>
-<b>9</b>. A. A. Voityuk, S. F. Vyboishchikov, <a href="https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp02667k">
+<b>9</b>. A. A. Voityuk, S. F. Vyboishchikov,
+<a href="https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp02667k">
 <i>Phys. Chem. Chem. Phys.</i> <b>2020</b>, <i>22</i></a>, 14591&ndash;14598. DOI: 10.1039/d0cp02667k</p>
 
 <p style='margin:0cm;margin-bottom:0pt'>
