@@ -13,10 +13,12 @@ geometry only. To obtain the solvation free energy, first <i>electronegativity-e
 atomic charges are calculated. Subsequently, the Born-type terms, atomic surfaces and volumes
 are evaluated and, along with five solvent features, are fed into a <i>Dense Neural Network</i>.</p>
 
-<p>The present scheme is an adaptation of my previous ESE-GB-DNN method. In contrast to the 
-previous ESE-GB-DNN scheme [3], the <b>ESE-&Delta;H-DNN</b> method yields &Delta;G<sub>solv</sub> and &Delta;H<sub>solv</sub>. However, ESE-&Delta;H-DNN was trained on a database of neutral solutes in
-organic solvents. Therefore, if you need aqueous solutions or ions, please use
-<a href="https://github.com/vyboishchikov/ESE-GB-DNN">ESE-GB-DNN</a> 
+<p>The present scheme is an adaptation of my previous ESE-GB-DNN method. In contrast to 
+the previous ESE-GB-DNN scheme [3], the <b>ESE-&Delta;H-DNN</b> method yields 
+&Delta;<i>G</i><sub>solv</sub> and &Delta;<i>H</i><sub>solv</sub>. However, ESE-&Delta;H-DNN was trained 
+on a database of neutral solutes in organic solvents. Therefore, if you need aqueous 
+solutions or ions, please use <a href="https://github.com/vyboishchikov/ESE-GB-DNN">ESE-
+GB-DNN</a> 
 
 <p>The present <b>ESE-&Delta;H-DNN</b> scheme is a continuation of my previous works 
 [3&ndash;5] and is loosely based on the <a href="https://github.com/vyboishchikov/ESE">uESE</a> 
@@ -24,7 +26,7 @@ organic solvents. Therefore, if you need aqueous solutions or ions, please use
 
 <p>The supported elements are H, C, N, O, F, Si, P, S, Cl, Br, I.</p>
 
-<p style='margin-top:12pt;margin-bottom:0cm'> &Delta;G<sub>solv</sub> and &Delta;H<sub>solv</sub>
+<p style='margin-top:12pt;margin-bottom:0cm'> &Delta;<i>G</i><sub>solv</sub> and &Delta;<i>H</i><sub>solv</sub>
 can be calculated by the program ESE-DeltaH-DNN, which can be downloaded here free of charge:</p>
 
 <p style='margin:0cm;margin-bottom:0pt'>
