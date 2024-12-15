@@ -53,7 +53,7 @@ Once you use results calculated by the ESE-&Delta;H-DNN program, you should incl
 <p style='margin:0cm'>
 <b>1</b>. S. F. Vyboishchikov, <i>ESE-&Delta;H-DNN program</i>, Girona, <b>2024</b></p>
 <p style='margin:0cm'>
-<b>2</b>. S. F. Vyboishchikov, <i>Liquids</i>, <b>2024</b>, <i>accepted</i>.
+<b>2</b>. S. F. Vyboishchikov, <i>Liquids</i>, <b>2024</b>, <b>4</b>, <i>525&ndash;538</i>.
 
 <p style='margin:0cm;margin-bottom:12pt'>
 <b>3</b>. S. F. Vyboishchikov, <i>J. Chem. Theory Comput</i>., <b>2023</b>, <i>19</i>, 8340&ndash;8350.
