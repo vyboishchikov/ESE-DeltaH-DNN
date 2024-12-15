@@ -26,7 +26,7 @@ solutions or ions, please use <a href="https://github.com/vyboishchikov/ESE-GB-D
 <p>The supported elements are H, C, N, O, F, Si, P, S, Cl, Br, I.</p>
 
 <p style='margin-top:12pt;margin-bottom:0cm'> &Delta;<i>G</i><sub>solv</sub> and &Delta;<i>H</i><sub>solv</sub>
-can be calculated by the program ESE-DeltaH-DNN, which can be downloaded here free of charge:</p>
+can be calculated by the program ESE-&Delta;H-DNN, which can be downloaded here free of charge:</p>
 
 <p style='margin:0cm;margin-bottom:0pt'>
 <a href="https://github.com/vyboishchikov/ESE-DeltaH-DNN/blob/main/ESE-DeltaH-DNN.exe">ESE-DeltaH-DNN.exe</a> &ndash; Windows version</p>
@@ -54,6 +54,7 @@ Once you use results calculated by the ESE-&Delta;H-DNN program, you should incl
 <b>1</b>. S. F. Vyboishchikov, <i>ESE-&Delta;H-DNN program</i>, Girona, <b>2024</b></p>
 <p style='margin:0cm'>
 <b>2</b>. S. F. Vyboishchikov, <i>Liquids</i>, <b>2024</b>, <i>4</i>, 525&ndash;538.
+<a href="https://doi.org/10.3390/liquids4030030">DOI: 10.3390/liquids4030030</a></p>
 
 <p style='margin:0cm;margin-bottom:12pt'>
 <b>3</b>. S. F. Vyboishchikov, <i>J. Chem. Theory Comput</i>., <b>2023</b>, <i>19</i>, 8340&ndash;8350.
